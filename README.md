@@ -4,6 +4,8 @@
 
 複数の方に校正いただきました。ありがとうございました！!
 
+# 2021.10.01 返事がきました
+https://github.com/kujiy/ipa-open-letter/blob/main/reply1.txt
 
 
 # ここから本文
